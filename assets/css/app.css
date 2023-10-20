@@ -158,7 +158,6 @@ span {
     background-size: cover;
     flex-direction: column;
     justify-content: center;
-    background-attachment: fixed;
     margin-bottom: 160px;
 }
 
