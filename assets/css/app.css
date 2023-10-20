@@ -156,6 +156,7 @@ span {
     display: flex;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
     flex-direction: column;
     justify-content: center;
     margin-bottom: 160px;
