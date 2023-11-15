@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2 ?family=Montserrat:wght@400 ;600;700&family=Поппинс&family=Roboto:wght@400;700&display=swap');
 @font-face {
     font-family: 'Russo One';
-    src: url(../assets/RussoOne-Regular.ttf);
+    src: url(../RussoOne-Regular.ttf);
 }
 
 body {
